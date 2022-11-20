@@ -8008,33 +8008,33 @@ blockquote {
   border-radius: 50%;
 }
 
-.happy_clints {
+.happy_clients {
   background: #314933;
 
   padding: 20px;
 }
 
-.happy_clints_img {
+.happy_clients_img {
   width: 70px
 }
 
-.happy_clints_img:nth-child(2) {
+.happy_clients_img:nth-child(2) {
   transform: translateX(-30px)
 }
 
-.happy_clints_img:nth-child(3) {
+.happy_clients_img:nth-child(3) {
   transform: translateX(-60px)
 }
 
-.happy_clints_img:nth-child(4) {
+.happy_clients_img:nth-child(4) {
   transform: translateX(-90px)
 }
 
-.happy_clints_img:nth-child(5) {
+.happy_clients_img:nth-child(5) {
   transform: translateX(-120px)
 }
 
-.happy_clints_img:nth-child(6) {
+.happy_clients_img:nth-child(6) {
   transform: translateX(-150px)
 }
 
